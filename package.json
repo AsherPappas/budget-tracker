@@ -24,7 +24,7 @@
     "heroku": "^7.57.0",
     "lite-server": "^2.5.3",
     "mongodb": "^4.1.0",
-    "mongoose": "^5.13.7",
+    "mongoose": "^5.13.8",
     "morgan": "^1.9.1",
     "node": "^16.6.1"
   }
